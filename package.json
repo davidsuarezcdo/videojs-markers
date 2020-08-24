@@ -1,5 +1,5 @@
 {
-  "name": "videojs-markers",
+  "name": "@aleexxx/videojs-markers",
   "description": "video marker breaks plugin for video.js",
   "version": "1.0.1",
   "main": "dist/videojs-markers.js",
@@ -23,5 +23,20 @@
     "grunt-contrib-less": "latest",
     "grunt-contrib-uglify": "latest",
     "grunt-contrib-watch": "latest"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alejandrosc/videojs-markers.git"
+  },
+  "keywords": [
+    "video",
+    "js",
+    "markers"
+  ],
+  "author": "spchuang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alejandrosc/videojs-markers/issues"
+  },
+  "homepage": "https://github.com/alejandrosc/videojs-markers#readme"
 }
